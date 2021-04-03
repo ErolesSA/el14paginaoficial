@@ -254,3 +254,7 @@
 document.getElementById('boton1').onclick = function(){
   alert('Ups, trabajando en el ingreso ;D');
 }
+
+document.getElementById('nah').onclick = function(){
+    alert('Horario del doparti 21 hrs');
+}
