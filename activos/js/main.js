@@ -250,3 +250,7 @@
   });
 
 })()
+
+document.getElementById('boton1').onclick = function(){
+  alert('Ups, trabajando en el ingreso ;D');
+}
